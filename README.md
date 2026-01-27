@@ -19,23 +19,6 @@ These case studies represent a code-first approach to UX/UI design. Rather than 
 - **React Router** — Client-side navigation
 - **Cloudflare Pages** — Hosting & deployment
 
-## Structure
-
-```
-ux_case_study/
-├── banking_app_case_study/    # Fintech case study
-│   ├── src/
-│   │   ├── pages/
-│   │   │   ├── CaseStudyExhibition.jsx
-│   │   │   ├── LandingPage.jsx
-│   │   │   ├── Dashboard.jsx
-│   │   │   └── DesignLanguage.jsx
-│   │   ├── App.jsx
-│   │   └── index.js
-│   └── public/
-├── [future_case_study]/       # Coming soon
-└── README.md
-```
 
 ## Running Locally
 
