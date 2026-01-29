@@ -4,7 +4,7 @@ A collection of interactive design case studies exploring UI/UX across different
 
 ## About
 
-These case studies represent a code-first approach to UX/UI design. Rather than static mockups, each project is a fully interactive prototype built in React—demonstrating that great design can emerge directly from code.
+These case studies represent a code-first approach to UX/UI design. Whether it be a sleek/quiet banking app or a colorfully loud hotel site, rather than static mockups, each project is a fully interactive prototype built in React—demonstrating that great design can emerge directly from code.
 
 **What makes these different:**
 - Fully functional prototypes, not wireframes
