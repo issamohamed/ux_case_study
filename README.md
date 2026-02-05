@@ -1,47 +1,38 @@
-# UX Case Studies
+# UX Case Study Portfolio
 
-A collection of interactive design case studies exploring UI/UX across different markets and industries. Each project fuses established design systems with bold product philosophies to create distinctive, functional interfaces.
-
-## About
-
-These case studies represent a code-first approach to UX/UI design. Whether it be a sleek/quiet banking app or a loud/dense editorial digest, rather than static mockups, each project is a fully interactive prototype built in React—demonstrating that great design can emerge directly from code.
-
-**What makes these different:**
-- Fully functional prototypes, not wireframes
-- Real interactions, animations, and hover states
-- Design systems documented alongside implementation
-- Built to showcase both design thinking and technical execution
-
-## Tech Stack
-
-- **React** — Component architecture
-- **CSS-in-JS** — Scoped styling via inline style objects
-- **React Router** — Client-side navigation
-- **Cloudflare Pages** — Hosting & deployment
-
-
-## Running Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/issamohamed/ux_case_study.git
-
-# Navigate to a case study
-cd ux_case_study/banking_app_case_study
-
-# Install dependencies
-npm install
-
-# Start dev server
-npm start
-```
-
-## Author
-
-**Issa Mohamed**  
-Web developer transitioning into UX/UI design, leveraging code as a design tool.
-
+A collection of interactive UX case studies exploring different industries and design philosophies. Each project features original design languages, functional mockups, and comprehensive design system documentation.
 
 ---
 
-*Each case study is a self-contained exploration—different industries, different challenges, same commitment to craft.*
+## Case Studies
+
+### [vault.](https://vault.issamohamed.com)
+**Crypto Banking Platform**
+
+A fintech experience fusing light glassmorphic aesthetics with bold, confident interaction design. Features a landing page with 3D animated credit cards, a Robinhood-inspired portfolio dashboard, and a complete design system built around frosted glass materials and blue accent colors.
+
+---
+
+### [Aurelia](https://hotel.issamohamed.com)
+**Luxury Hotel Experience**
+
+An editorial approach to hospitality design pairing Playfair Display with DM Sans for sophisticated typography. Explores how restraint and whitespace can communicate luxury, featuring booking flows and property showcases with subtle animation details.
+
+---
+
+### [The Penguin Press](https://news.issamohamed.com)
+**Editorial News Platform**
+
+A modern editorial experience built around forest green and amber accents. Combines traditional newspaper hierarchy with contemporary digital reading patterns, featuring article layouts, exhibition pages, and a design language rooted in journalistic clarity.
+
+---
+
+## About
+
+These case studies demonstrate UX thinking through interactive, deployable applications rather than static mockups. Each includes:
+
+- **Exhibition Landing Page** — Project overview and design rationale
+- **Functional Mockups** — Interactive demonstrations of key flows
+- **Design Language Documentation** — Philosophy, typography, color, motion, and component specs
+
+Built with React • Deployed on Cloudflare Pages
