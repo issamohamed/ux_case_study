@@ -21,9 +21,9 @@ An editorial approach to hospitality design pairing Playfair Display with DM San
 ---
 
 ### [The Penguin Press](https://news.issamohamed.com)
-**Editorial News Platform**
+**Editorial News Digest**
 
-A modern editorial experience built around forest green and amber accents. Combines traditional newspaper hierarchy with contemporary digital reading patterns, featuring article layouts, exhibition pages, and a design language rooted in journalistic clarity.
+A modern editorial experience built around forest green and amber accents. Combines traditional, dense, newspaper hierarchy with contemporary digital reading patterns, featuring article layouts, exhibition pages, and a design language rooted in journalistic clarity.
 
 ---
 
