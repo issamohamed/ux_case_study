@@ -26,7 +26,8 @@ An editorial approach to hospitality design pairing Playfair Display with DM San
 A modern editorial experience built around forest green and amber accents. Combines traditional, dense, newspaper hierarchy with contemporary digital reading patterns, featuring article layouts, exhibition pages, and a design language rooted in journalistic clarity.
 
 ---
-
+### Upcoming: Vesta, a reimagined dropbox
+---
 ## About
 
 These case studies demonstrate UX thinking through interactive, deployable applications rather than static mockups. Each includes:
