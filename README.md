@@ -13,10 +13,10 @@ A fintech experience fusing light glassmorphic aesthetics with bold, confident i
 
 ---
 
-### [Aurelia](https://hotel.issamohamed.com)
-**Luxury Hotel Experience**
+### [Vesta](https://vesta.issamohamed.com)
+**Cloud Storage Reimagined**
 
-An editorial approach to hospitality design pairing Playfair Display with DM Sans for sophisticated typography. Explores how restraint and whitespace can communicate luxury, featuring booking flows and property showcases with subtle animation details.
+A warm, domestic approach to file storage that makes cloud feel like home. Built around hearth orange and soft cream tones, Vesta subverts the cold, corporate aesthetic of typical cloud platforms. Features intuitive file management, collaborative spaces, and a design language rooted in comfort and belonging.
 
 ---
 
@@ -26,8 +26,14 @@ An editorial approach to hospitality design pairing Playfair Display with DM San
 A modern editorial experience built around forest green and amber accents. Combines traditional, dense, newspaper hierarchy with contemporary digital reading patterns, featuring article layouts, exhibition pages, and a design language rooted in journalistic clarity.
 
 ---
-### Upcoming: Vesta, a reimagined dropbox
+
+### [Aurelia](https://hotel.issamohamed.com)
+**Luxury Hotel Experience**
+
+An editorial approach to hospitality design pairing Playfair Display with DM Sans for sophisticated typography. Explores how restraint and whitespace can communicate luxury, featuring booking flows and property showcases with subtle animation details.
+
 ---
+
 ## About
 
 These case studies demonstrate UX thinking through interactive, deployable applications rather than static mockups. Each includes:
