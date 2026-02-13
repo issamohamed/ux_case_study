@@ -1,11 +1,5 @@
 # UX Case Study Portfolio
 
-A collection of interactive UX case studies exploring different industries and design philosophies. Each project features original design languages, functional mockups, and comprehensive design system documentation.
-
----
-
-## Case Studies
-
 ### [vault.](https://vault.issamohamed.com)
 **Crypto Banking Platform**
 
