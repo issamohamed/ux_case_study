@@ -3,7 +3,7 @@
 ### [vault.](https://vault.issamohamed.com)
 **Crypto Banking Platform**
 
-A fintech experience fusing light glassmorphic aesthetics with bold, confident interaction design. Features a landing page with 3D animated credit cards, a Robinhood-inspired portfolio dashboard, and a complete design system built around frosted glass materials and blue accent colors.
+An industry standard fintech experience fusing light glassmorphic aesthetics with bold, confident interaction design. Features a landing page with 3D animated credit cards, a Robinhood-inspired portfolio dashboard, and a complete design system built around frosted glass materials and blue accent colors.
 
 ---
 
